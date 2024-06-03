@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UDLA Trabajos\\Ayudantes\\PistaGame\\PistaUdla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00BC8DC3-8BF7-60D3-619D-3FE369AB98C2}|KartGame.csproj|d:\\udla trabajos\\ayudantes\\pistagame\\pistaudla\\assets\\karting\\scripts\\kartsystems\\inputs\\keyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BC8DC3-8BF7-60D3-619D-3FE369AB98C2}|KartGame.csproj|solutionrelative:assets\\karting\\scripts\\kartsystems\\inputs\\keyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BC8DC3-8BF7-60D3-619D-3FE369AB98C2}|KartGame.csproj|d:\\udla trabajos\\ayudantes\\pistagame\\pistaudla\\assets\\karting\\scripts\\kartsystems\\arcadekart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BC8DC3-8BF7-60D3-619D-3FE369AB98C2}|KartGame.csproj|solutionrelative:assets\\karting\\scripts\\kartsystems\\arcadekart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArcadeKart.cs",
+              "DocumentMoniker": "D:\\UDLA Trabajos\\Ayudantes\\PistaGame\\PistaUdla\\Assets\\Karting\\Scripts\\KartSystems\\ArcadeKart.cs",
+              "RelativeDocumentMoniker": "Assets\\Karting\\Scripts\\KartSystems\\ArcadeKart.cs",
+              "ToolTip": "D:\\UDLA Trabajos\\Ayudantes\\PistaGame\\PistaUdla\\Assets\\Karting\\Scripts\\KartSystems\\ArcadeKart.cs",
+              "RelativeToolTip": "Assets\\Karting\\Scripts\\KartSystems\\ArcadeKart.cs",
+              "ViewState": "AQIAAEMBAAAAAAAAAIAzwEwBAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:56:15.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyboardInput.cs",
+              "DocumentMoniker": "D:\\UDLA Trabajos\\Ayudantes\\PistaGame\\PistaUdla\\Assets\\Karting\\Scripts\\KartSystems\\Inputs\\KeyboardInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Karting\\Scripts\\KartSystems\\Inputs\\KeyboardInput.cs",
+              "ToolTip": "D:\\UDLA Trabajos\\Ayudantes\\PistaGame\\PistaUdla\\Assets\\Karting\\Scripts\\KartSystems\\Inputs\\KeyboardInput.cs",
+              "RelativeToolTip": "Assets\\Karting\\Scripts\\KartSystems\\Inputs\\KeyboardInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:55:45.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
